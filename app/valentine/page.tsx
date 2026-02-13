@@ -206,14 +206,14 @@ export default function ValentinePage() {
 
       {/* Footer */}
       <footer className="absolute bottom-2 w-full text-center text-white/80 text-sm z-20">
-        Developed by Shailesh{" "}
+        Developed by Saurabh{" "}
         <a
           href="https://instagram.com/shailesh9.js"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-1 text-pink-300 hover:text-pink-500"
         >
-          || shailesh9.js <FaInstagramSquare />
+          || Saurabh <FaInstagramSquare />
         </a>
       </footer>
 
